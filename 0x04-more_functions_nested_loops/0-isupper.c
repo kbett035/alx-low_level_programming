@@ -1,5 +1,5 @@
 /*
- * File: 0-isuper.c
+ * File: 0-isupper.c
  * Auth: Wyclife Kimutai
  */
 
